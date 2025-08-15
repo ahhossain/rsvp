@@ -1,0 +1,15 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build artifacts
+*.o
+*.a
+
+# Go
+/bin
+/pkg
+/src
+.vscode/
